@@ -1,0 +1,7 @@
+{
+  "name": "mapbox-gl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nbumbarger/mapbox-gl-uglify-test.git"
+  }
+}
